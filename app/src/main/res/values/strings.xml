@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string-array name="cityName">
+        <item>Lodz</item>
+        <item>Warszawa</item>
+        <item>Krakow</item>
+    </string-array>
+</resources>
